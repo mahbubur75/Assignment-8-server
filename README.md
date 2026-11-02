@@ -152,5 +152,5 @@ Project: B14-A08 — Social Development Events Platform
 
 
 
-CareConnect — Connect with your community. Care for a better tomorrow.
+CareConnect — Connect wit
 
