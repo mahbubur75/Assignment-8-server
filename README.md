@@ -132,6 +132,4 @@ API Documentation
 
 
 
-The server provides backend endpoints for the CareConnect application. The exact 
-
 
