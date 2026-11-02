@@ -115,11 +115,3 @@ Create a ".env" file in the project root and configure the environment variables
 Use the exact variable names expected by "index.js". Never publish database credentials, authentication secrets, or other sensitive environment values.
 
 
-
-Run the Server
-
-
-
-Use the start command configured in "packa
-
-
