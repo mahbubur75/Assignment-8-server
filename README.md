@@ -140,17 +140,3 @@ Developer
 
 
 
-Mahbubur Rahman Munna
-
-
-
-Project: B14-A08 — Social Development Events Platform
-
-
-
-\---
-
-
-
-CareConnect — Connect wit
-
