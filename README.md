@@ -120,16 +120,6 @@ Run the Server
 
 
 
-Use the start command configured in "package.json". For example, if the entry point is "index.js":
-
-
-
-node index.js
-
-
-
-API Documentation
-
-
+Use the start command configured in "packa
 
 
