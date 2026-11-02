@@ -132,11 +132,6 @@ API Documentation
 
 
 
-The server provides backend endpoints for the CareConnect application. The exact endpoints, request methods, and response formats are defined by the server implementation.
-
-
-
-Developer
-
+The server provides backend endpoints for the CareConnect application. The exact 
 
 
